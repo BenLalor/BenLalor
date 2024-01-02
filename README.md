@@ -9,15 +9,13 @@
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Denver.
 
+- :telescope: Leading a cross functional team of developers and subject matter experts to develop and maintain the preferred compliance tool for California's Energy Code.
+- :bar_chart: Developing a database for Californias building design data
 - :desktop_computer: Full Stack Developer
 - :office: Energy Code Subject Matter Expert
-- :telescope: Leading a team of developers and subject matter experts to build and maintain a industry leading compliance tool for California's Energy Code.
+- :zap: In my free time, I develop web applications using primarily React and Python.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I develop full stack web applications primarily with React and Python.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-BenLalor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ben-lalor-1aab8997/)
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benlalor@gmail.com) OR [![Linkedin Badge](https://img.shields.io/badge/-BenLalor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ben-lalor-1aab8997/)  
 
 ### :hammer_and_wrench: Languages and Tools :
 
