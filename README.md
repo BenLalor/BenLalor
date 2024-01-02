@@ -15,7 +15,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 - :office: Energy Code Subject Matter Expert
 - :zap: In my free time, I develop web applications using primarily React and Python.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:benlalor@gmail.com) OR [![Linkedin Badge](https://img.shields.io/badge/-BenLalor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ben-lalor-1aab8997/)  
+- :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalor.benjamin@gmail.com) OR [![Linkedin Badge](https://img.shields.io/badge/-BenLalor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ben-lalor-1aab8997/)  
 
 ### :hammer_and_wrench: Languages and Tools :
 
