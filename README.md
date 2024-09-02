@@ -11,9 +11,8 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :telescope: Leading a cross functional team of developers and subject matter experts to develop and maintain the preferred compliance tool for California's Energy Code.
 - :bar_chart: Developing a database for California's building design data
-- :desktop_computer: Full Stack Developer
 - :office: Energy Code Subject Matter Expert
-- :zap: In my free time, I develop web applications using primarily React and Python.
+- :zap: In my free time, I develop web applications using primarily JavaScript and Python.
 
 - :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalor.benjamin@gmail.com) OR [![Linkedin Badge](https://img.shields.io/badge/-BenLalor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ben-lalor-1aab8997/)  
 
