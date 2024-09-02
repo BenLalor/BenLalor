@@ -14,6 +14,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - :mailbox:How to reach me: [![Email Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lalor.benjamin@gmail.com) OR [![Linkedin Badge](https://img.shields.io/badge/-BenLalor-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ben-lalor-1aab8997/)  
 
+<!--
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
@@ -32,7 +33,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
   <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>
 </div>
-
+-->
 ---
 
 ### :fire: My Stats :
