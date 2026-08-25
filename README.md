@@ -16,15 +16,6 @@ My work sits at the intersection of software development, building energy effici
 
 I work primarily with California's Building Energy Efficiency Standards, but also spend time with ASHRAE 90.1, IECC, EnergyPlus, and related building-performance standards and tools.
 
-## Tech
-
-- Languages & frameworks
-  - C# / .NET · JavaScript · Python · SQL · HTML / CSS
-- Infrastructure & tools
-  - AWS · GitHub · SQL Server · IIS · GitHub Actions · Cursor
-- Building energy
-  - Title 24, Part 6 · EnergyPlus · CBECC · ASHRAE 90.1 · IECC
-
 ## Currently interested in
 
 AI-assisted software development, better ways to turn technical standards into software, building-performance data, and making compliance tools less painful to use.
