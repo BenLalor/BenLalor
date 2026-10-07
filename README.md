@@ -1,8 +1,8 @@
 # Ben Lalor
 
-I build software for building energy codes.
+I develop building energy modeling (BEM) software.
 
-My work sits at the intersection of software development, building energy efficiency, and code compliance. I spend a lot of time turning complex technical requirements into software, data systems, and tools that people can actually use.
+My work sits at the intersection of software development, building energy efficiency, and energy code compliance. I spend a lot of time turning complex technical requirements into software, data systems, and tools that people can actually use.
 
 ## What I work on
 
@@ -14,7 +14,7 @@ My work sits at the intersection of software development, building energy effici
 - Leading software projects and developers
 - Finding practical uses for AI in software and technical work
 
-I work primarily with California's Building Energy Efficiency Standards, but also spend time with ASHRAE 90.1, IECC, EnergyPlus, and related building-performance standards and tools.
+I work primarily with California's Building Energy Efficiency Standards, but also spend time with ASHRAE 90.1, IECC, and Washigton State Energy Code (WSEC) and related BEM tools.
 
 ## Currently interested in
 
